@@ -1,5 +1,5 @@
 # PokeDex em Java (JPokeDex)
-###### feito por: ***** ****, Hugo Lemos, Éder Elias e Gabriel Bonaretti.
+###### feito por: Luis Miguel, Hugo Lemos, Éder Elias e Gabriel Bonaretti.
 
 Um projeto que tenta ao máximo imitar a PokeDex de Pokémon.
 
