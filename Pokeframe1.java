@@ -384,7 +384,7 @@ public class Pokeframe1 extends JFrame {
 
     public static void updatesom() {
         try {
-            AudioInputStream audioInputStream = AudioSystem.getAudioInputStream(new File("poke_som/" + count + ".wav").getAbsoluteFile());
+            AudioInputStream audioInputStream = AudioSystem.getAudioInputStream(new File("pokesom/" + count + ".wav").getAbsoluteFile());
             Clip clip = AudioSystem.getClip();
             clip.open(audioInputStream);
             clip.start();
